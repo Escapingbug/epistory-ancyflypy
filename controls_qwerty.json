@@ -1,0 +1,20 @@
+{
+    "language": "english",
+    "controls": 
+		{
+			"HideMessage":"Tab",
+			"PauseMenu":["Tab", "Escape"],
+			"CancelWord":"Backspace",
+			"ToggleWrite":["Return", "KeypadEnter", "Space"],
+			"ToggleSprint":["RightShift", "LeftShift"],
+            "LeftUp" : "E",
+            "LeftDown" : "F",
+            "RightUp" : "I",
+            "RightDown" : "J",
+            
+            "AltUp" : ["W", "UpArrow"],
+            "AltDown" : ["S", "DownArrow"],
+            "AltLeft" : ["A", "LeftArrow"],
+            "AltRight" : ["D", "RightArrow"]
+		}
+}
